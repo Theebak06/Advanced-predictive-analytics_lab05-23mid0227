@@ -2,10 +2,10 @@ Here is a clean, comprehensive `README.md` formatted to meet the requirements of
 
 ```markdown
 # Product and Brand Sentiment Prediction from Tweet Data
-**Course:** MDI3003 - Advanced Predictive Analytics | Laboratory Experiment 05[cite: 1]  
-**Institution:** School of Computer Science and Engineering (SCOPE), VIT Vellore[cite: 1]  
-**Faculty:** Dr. Durgesh Kumar[cite: 1]  
-**Academic Year:** Fall Semester 2026–2027[cite: 1]  
+**Course:** MDI3003 - Advanced Predictive Analytics | Laboratory Experiment 05
+**Institution:** School of Computer Science and Engineering (SCOPE), VIT Vellore  
+**Faculty:** Dr. Durgesh Kumar
+**Academic Year:** Fall Semester 2026–2027
 
 ---
 
